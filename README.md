@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +75,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 <!---LeetCode Topics End-->
