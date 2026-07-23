@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1791-find-center-of-star-graph](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
