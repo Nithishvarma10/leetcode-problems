@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0050-powx-n/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -111,4 +112,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0100-same-tree/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
