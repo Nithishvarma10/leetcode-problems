@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0222-count-complete-tree-nodes](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0222-count-complete-tree-nodes](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -116,4 +119,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0050-powx-n/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0222-count-complete-tree-nodes/) | Medium |
 <!---LeetCode Topics End-->
