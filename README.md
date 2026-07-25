@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1817-finding-the-users-active-minutes](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1817-finding-the-users-active-minutes/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2418-sort-the-people](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2418-sort-the-people/) | Easy |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2418-sort-the-people](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2418-sort-the-people/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -27,12 +29,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2418-sort-the-people](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2418-sort-the-people/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -102,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1817-finding-the-users-active-minutes](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1817-finding-the-users-active-minutes/) | Medium |
 | [2418-sort-the-people](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -115,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -129,4 +135,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0222-count-complete-tree-nodes/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
