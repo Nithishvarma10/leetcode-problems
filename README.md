@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2418-sort-the-people](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## String
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +145,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 <!---LeetCode Topics End-->
