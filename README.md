@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1817-finding-the-users-active-minutes](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1817-finding-the-users-active-minutes/) | Medium |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -37,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
@@ -77,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
@@ -103,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
