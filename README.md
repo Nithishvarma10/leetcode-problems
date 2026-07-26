@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2418-sort-the-people](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2418-sort-the-people/) | Easy |
@@ -160,9 +161,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0402-remove-k-digits/) | Medium |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2679-sum-in-a-matrix](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2679-sum-in-a-matrix/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0402-remove-k-digits/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
