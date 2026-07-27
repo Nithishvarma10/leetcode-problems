@@ -62,9 +62,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0739-daily-temperatures/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
