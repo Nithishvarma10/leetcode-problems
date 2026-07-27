@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
+| [3895-count-digit-appearances](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3895-count-digit-appearances](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3895-count-digit-appearances/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
