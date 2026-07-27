@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2418-sort-the-people](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2418-sort-the-people/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3941-password-strength](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3941-password-strength/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2418-sort-the-people](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3941-password-strength](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3941-password-strength/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
