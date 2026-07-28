@@ -34,10 +34,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0148-sort-list/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0148-sort-list/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -63,11 +65,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0148-sort-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0148-sort-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 ## Tree
@@ -196,4 +200,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0182-duplicate-emails/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
