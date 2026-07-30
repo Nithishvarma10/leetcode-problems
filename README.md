@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0178-rank-scores](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0178-rank-scores/) | Medium |
 | [0182-duplicate-emails](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0183-customers-who-never-order/) | Easy |
+| [0577-employee-bonus](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0577-employee-bonus/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
