@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0176-second-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0182-duplicate-emails/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Merge Sort
