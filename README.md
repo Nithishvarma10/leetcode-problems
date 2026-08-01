@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -195,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
