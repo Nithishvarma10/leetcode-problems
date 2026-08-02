@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2109-adding-spaces-to-a-string/) | Medium |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0402-remove-k-digits/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0739-daily-temperatures/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
