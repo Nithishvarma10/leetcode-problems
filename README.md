@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2418-sort-the-people](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2418-sort-the-people/) | Easy |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -153,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Dynamic Programming
@@ -176,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1817-finding-the-users-active-minutes](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1817-finding-the-users-active-minutes/) | Medium |
 | [2418-sort-the-people](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -212,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
