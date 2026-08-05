@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-range-sum-of-bst](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-range-sum-of-bst](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-range-sum-of-bst](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
