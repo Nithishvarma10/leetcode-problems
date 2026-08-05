@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2679-sum-in-a-matrix](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2740-find-the-value-of-the-partition](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2740-find-the-value-of-the-partition/) | Medium |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1817-finding-the-users-active-minutes](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1817-finding-the-users-active-minutes/) | Medium |
 | [2418-sort-the-people](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -245,10 +247,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0239-sliding-window-maximum/) | Hard |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
