@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2740-find-the-value-of-the-partition](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2740-find-the-value-of-the-partition/) | Medium |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
+| [3668-restore-finishing-order](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3668-restore-finishing-order](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3941-password-strength](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3941-password-strength/) | Medium |
