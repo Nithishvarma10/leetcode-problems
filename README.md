@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0402-remove-k-digits](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -171,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -322,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0113-path-sum-ii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0257-binary-tree-paths/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
