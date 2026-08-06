@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3895-count-digit-appearances/) | Medium |
 ## Counting
@@ -334,4 +335,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0239-sliding-window-maximum/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
