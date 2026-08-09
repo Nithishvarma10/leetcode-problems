@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
@@ -272,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1302-deepest-leaves-sum/) | Medium |
