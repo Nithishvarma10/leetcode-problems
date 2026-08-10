@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Matrix
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0547-number-of-provinces](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -399,4 +402,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
