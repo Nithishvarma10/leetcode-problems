@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2932-maximum-strong-pair-xor-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3895-count-digit-appearances/) | Medium |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2740-find-the-value-of-the-partition](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2740-find-the-value-of-the-partition/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2679-sum-in-a-matrix/) | Medium |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0994-rotting-oranges/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2679-sum-in-a-matrix/) | Medium |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -329,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
