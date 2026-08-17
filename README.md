@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1108-defanging-an-ip-address](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
