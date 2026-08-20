@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2932-maximum-strong-pair-xor-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2109-adding-spaces-to-a-string](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2679-sum-in-a-matrix/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
