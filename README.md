@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2109-adding-spaces-to-a-string/) | Medium |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1817-finding-the-users-active-minutes](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1817-finding-the-users-active-minutes/) | Medium |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2418-sort-the-people](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2418-sort-the-people/) | Easy |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
