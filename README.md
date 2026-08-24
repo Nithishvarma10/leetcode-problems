@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
