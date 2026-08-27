@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0402-remove-k-digits](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
