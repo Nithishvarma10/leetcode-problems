@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0877-stone-game](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [0994-rotting-oranges](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0994-rotting-oranges/) | Medium |
+| [1200-minimum-absolute-difference](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1817-finding-the-users-active-minutes](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1817-finding-the-users-active-minutes/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1200-minimum-absolute-difference](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2126-destroying-asteroids/) | Medium |
