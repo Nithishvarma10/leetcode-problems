@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3392-count-subarrays-of-length-three-with-a-condition/) | Easy |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3668-restore-finishing-order/) | Easy |
