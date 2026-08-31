@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3668-restore-finishing-order/) | Easy |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2487-remove-nodes-from-linked-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
