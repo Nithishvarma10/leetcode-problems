@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0735-asteroid-collision](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0739-daily-temperatures/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [0994-rotting-oranges](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -492,4 +494,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3904-smallest-stable-index-ii/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
