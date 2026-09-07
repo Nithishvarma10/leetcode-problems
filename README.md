@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0735-asteroid-collision](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0739-daily-temperatures/) | Medium |
+| [0817-linked-list-components](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0817-linked-list-components/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [0994-rotting-oranges](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0994-rotting-oranges/) | Medium |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0148-sort-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0148-sort-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0817-linked-list-components](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0817-linked-list-components/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0817-linked-list-components](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0817-linked-list-components/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1817-finding-the-users-active-minutes](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1817-finding-the-users-active-minutes/) | Medium |
