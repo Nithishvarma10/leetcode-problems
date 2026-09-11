@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2418-sort-the-people](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2679-sum-in-a-matrix/) | Medium |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0728-self-dividing-numbers](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nithishvarma10/leetcode-problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
