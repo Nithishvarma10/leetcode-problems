@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0993-cousins-in-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
