@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [0994-rotting-oranges](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0994-rotting-oranges/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1408-string-matching-in-an-array/) | Easy |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0817-linked-list-components](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0817-linked-list-components/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1817-finding-the-users-active-minutes](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1817-finding-the-users-active-minutes/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
@@ -341,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
