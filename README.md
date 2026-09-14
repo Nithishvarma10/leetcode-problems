@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1817-finding-the-users-active-minutes](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1817-finding-the-users-active-minutes/) | Medium |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-linked-list-components](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0817-linked-list-components/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1817-finding-the-users-active-minutes](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1817-finding-the-users-active-minutes/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Nithishvarma10/leetcode-problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Nithishvarma10/leetcode-problems/tree/main/2126-destroying-asteroids/) | Medium |
