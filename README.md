@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0257-binary-tree-paths/) | Easy |
 | [0402-remove-k-digits](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0409-longest-palindrome/) | Easy |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0148-sort-list](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0148-sort-list/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -295,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0409-longest-palindrome](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nithishvarma10/leetcode-problems/tree/main/0692-top-k-frequent-words/) | Medium |
